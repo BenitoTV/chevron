@@ -1,4 +1,4 @@
-rwindow.CONFIG = {
+window.CONFIG = {
   macros: [
     {
       category: 'Entertainment',
