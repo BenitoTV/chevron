@@ -45,7 +45,11 @@ window.CONFIG = {
       key: 'KeyM',
       commands: {
         go: {
-          template: '{@}/{$}'
+          template: 'https://music.youtube.com/{$}',
+          description: 'go to song'
+        },
+        search: {
+          template: '{@}/search?q={$}'
         }
       },
       bgColor: {
