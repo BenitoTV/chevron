@@ -30,7 +30,7 @@ window.CONFIG = {
     },
     {
       category: 'Entertainment',
-      name: 'YT Music',
+      name: 'YTMusic',
       icon: 'ytmusic',
       url: 'https://music.youtube.com',
       normalisedURL: 'music.youtube.com',
@@ -318,7 +318,7 @@ window.CONFIG = {
     },
     {
       category: 'Work',
-      name: 'CANCOM Ticketsystem',
+      name: 'Ticketsystem',
       icon: 'ticket',
       key: 'KeyT',
       triggers: [
@@ -333,7 +333,7 @@ window.CONFIG = {
         type: 'gradient',
         gradientType: 'linear',
         angle: 45,
-        colors: ['#b7394f', '#305769'],
+        colors: ['#b7394f', '#3ab8cb'],
         stops: [50, 100]
       },
       textColor: '#e8e8e8',
@@ -363,7 +363,7 @@ window.CONFIG = {
     },
     {
       category: 'Work',
-      name: 'CANCOM ESS',
+      name: 'CancomESS',
       icon: 'ess',
       key: 'KeyE',
       triggers: [
